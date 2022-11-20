@@ -14,3 +14,8 @@ input {
     border: none;
     cursor: pointer;
 }
+
+textarea{
+    border: 1px lightslategray solid;
+    cursor: pointer;
+}
